@@ -1,0 +1,11 @@
+# Install Selenium Webdrivers
+- Robot Framework *S2L* sits on top of Selenium
+- Selenium is a *library* packaged as .exe binary
+- Each installed browser need its own Webdrivers
+- Edge, IE, Chrome, and Firefox installation process
+  - Create c:\bin
+  - Add c:\bin to PATH
+  - Go to [seleniumhq.org](https://www.seleniumhq.org/download/) and click "download"
+  - Then find "IE Driver" & "Third party drivers" sections
+  - Download & extract each driver into c:\bin
+  - *Get the 32 bit Webdriver for IE!*
