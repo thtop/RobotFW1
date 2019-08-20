@@ -15,6 +15,6 @@
     - Keyword: Windows command line tutorial
   - Use the *up arrow* to re-run previous commands
 - PATH
- - A collection of pre-defined directories where important executables live
- - Enables us to type shorter commands
- - Advanced System Settings
+  - A collection of pre-defined directories where important executables live
+  - Enables us to type shorter commands
+  - Advanced System Settings
