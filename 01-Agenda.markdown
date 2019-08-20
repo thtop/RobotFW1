@@ -1,0 +1,6 @@
+# Agenda
+- Demo!
+- What is a Test Automation "Framework"?
+- Robot Framework Origin & History
+- Features & Capbilities
+- Robot Framework vs. Selenium
