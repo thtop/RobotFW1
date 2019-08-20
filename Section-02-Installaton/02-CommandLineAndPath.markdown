@@ -1,0 +1,20 @@
+# Windows Command Line & Path
+- Robot Framework is command line-driven
+- Command Line
+ - Alternate way to navigate files & run apps
+ - Start -> cmd
+ - CD (change directory) *copy/paste the path*
+  - cd c:\
+  - dir
+  - filename.txt
+  - c:\hello.txt (Absolute Path)
+  - c:\hello.bat
+  - pybot myscript.robot
+  - path
+  - echo %path::=&echo.%
+  - Keyword: Windows command line tutorial
+ - Use the *up arrow* to re-run previous commands
+- PATH
+ - A collection of pre-defined directories where important executables live
+ - Enables us to type shorter commands
+ - Advanced System Settings
