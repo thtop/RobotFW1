@@ -1,0 +1,17 @@
+# Organizing Your Project Files
+- /ProjectBase
+  - /Tests --> Scripts
+    - /product-1
+      - feature1.robot
+      - feature2.robot
+  - /Resources --> Keyword files and page objects
+    - common.robot(Suite Setup, Open Browser, etc.)
+    - /product-1
+      - feature1.robot
+      - feature2.robot
+      - /page-objects
+        - po1.robot
+        - po2.robot
+  - /Libraries
+  - /Results
+    - /product-1
