@@ -1,4 +1,4 @@
-#Features & Capabilities
+# Features & Capabilities
 - Cross-Platform (Win, Mac, Linux)
 - Keyword-Driven (w/ Data-driven capabilities)
   - Natural Language/Business Domain
