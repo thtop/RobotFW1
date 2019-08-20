@@ -1,0 +1,25 @@
+# Install Python & PIP
+- Navigate to *Python.org* and click *Downloads*
+- Decide which Python version to use and download it
+  - Version 2.7.X - guaranteed to work with all RF libraries
+  - Version 3.6.X - some RF libraries might not work yet
+  - Python 2 support will stop in 2020... so *Python 3* is recommended
+- Run the Python installer as *administrator*
+  - Select the PATH & pip options
+  - Verify python directories exist
+  - Verify python directories are in PATH
+- Open command line and type *python -V*
+- Also type *pip -V*
+- Type *pip list* and follow pip upgrade directions
+
+
+# Use PIP to Install RF & Libraries
+- Open a Windows command line
+- Type *pip install robotframework*
+- Hit enter
+- Type *pip install robotframwork-seleniumlibrary*
+- Hit enter
+- Optional
+  - See *pypi.python.org* [Search](https://pypi.org/search/?q=robotframework) for other library options
+  - Enter robotframework in the search bar
+  - [Robot Framework Libraries](https://robotframework.org/#libraries)
