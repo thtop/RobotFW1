@@ -1,0 +1,11 @@
+# Batch File
+- Create a Text file
+- Add Commands
+  - `@echo off`
+  - `cd c:\development\robot-scripts\amazon`
+  - `call robot -d results tests/my-script.robot`
+  - `call robot -d results --include smoke tests/my-script.robot`
+  - `call robot -d c:\developmet\results -i smoke tests/my-script.robot`
+- Save the File
+- Change .txt Extension to .bat
+- Double Click the .bat File to Execute
