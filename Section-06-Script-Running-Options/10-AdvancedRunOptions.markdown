@@ -1,6 +1,6 @@
 # Advanced Topics
 - Running Multiple Scripts
-  - Execution Order & Randomizaton
+  - Execution Order & Randomization
   - Script Patterns
   - Tag Patterns
 - Halting Execution on Any Failure
