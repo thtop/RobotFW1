@@ -1,10 +1,10 @@
 # Robot Framework vs. Selenium
 
-- C sharp
+#### C sharp
 ![Image of c sharp](imgs/3-c.PNG)
 ---
-- Robot Framework web test
+#### Robot Framework web test
 ![Image for Robor Framework](imgs/4-robot-script.PNG)
 ---
-- Cucumber (Gherkin)
+#### Cucumber (Gherkin)
 ![Image for Cucumber](imgs/5-cucumber.PNG)
