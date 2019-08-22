@@ -1,9 +1,9 @@
 # Agenda
 - Overview
-- Organizing Project Files
-- Sections of the Script File
-- Choose a Library and Write Steps
-- Run the Script and Examine Results
+- [Organizing Project Files](02-OrganizingProject.markdown)
+- [Sections of the Script File](03-ScriptFile.markdown)
+- [Choose a Library and Write Steps](04-WriteTestScript.markdown)
+- [Run the Script and Examine Results](05-RunScript.markdown)
 ---
 #### Overview
 - Editor Options
