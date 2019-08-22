@@ -8,6 +8,6 @@
   - Select the PATH & pip options
   - Verify python directories exist
   - Verify python directories are in PATH
-- Open command line and type *python -V*
-- Also type *pip -V*
-- Type *pip list* and follow pip upgrade directions
+- Open command line and type `python -V`
+- Also type `pip -V`
+- Type `pip list` and follow pip upgrade directions
