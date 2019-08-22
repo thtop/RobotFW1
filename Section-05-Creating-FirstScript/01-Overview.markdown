@@ -4,8 +4,8 @@
 - Sections of the Script File
 - Choose a Library and Write Steps
 - Run the Script and Examine Results
-
-## Overview
+---
+#### Overview
 - Editor Options
   - IDE-*Pycharm*, Sublime Text, Brackets, Eclipse
   - Text editors- Emacs, Vim, Notepad++
@@ -17,9 +17,9 @@
 - Keyword-Driven
 - Natural Language (Business)
 
-![Overview](https://github.com/thtop/RobotFW1/blob/master/Section-05-Creating-FirstScript/imgs/1-overview.PNG)
+![Overview](imgs/1-overview.PNG)
 
-## Overview-Script Layers
-![script1](https://github.com/thtop/RobotFW1/blob/master/Section-05-Creating-FirstScript/imgs/2-overview-script.PNG)
+#### Overview-Script Layers
+![script1](imgs/2-overview-script.PNG)
 
-![script2](https://github.com/thtop/RobotFW1/blob/master/Section-05-Creating-FirstScript/imgs/2-overview-script.PNG)
+![script2](imgs/2-overview-script.PNG)

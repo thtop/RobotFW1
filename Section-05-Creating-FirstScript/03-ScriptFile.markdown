@@ -4,7 +4,7 @@
 - Test Cases
 - Keywords (optonal)
 
-## Settings
+#### Settings
 - Documentation  Some info about the suite
 - Library  SomeLibraryName
 - Resource  SomeResourceFile.robot
@@ -12,12 +12,13 @@
 - Test Setup/Test Teardown Some Keyword
 - Test Timeout X
 
-## Variables
+#### Variables
+- ...
 
-## Test Cases
+#### Test Cases
 - [Documentation] Some info about the test
 - [Tags] Tag1 Tag2
 - *TIP: A "smoke" test is considered to be a critical test that must be run*
 - [Timeout] X
 
-## Keywords (optonal- usually seprate file)
+#### Keywords (optonal- usually seprate file)
