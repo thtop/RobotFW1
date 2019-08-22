@@ -5,7 +5,7 @@ Use either the default Python that came on your Mac or (preferably) install an u
 
 Install PIP. After that, install robot framework and SeleniumLibrary via pip just like I show in the Windows videos. 
 
-After the install, the files will exist in the "usr/local/bin" folder of your Mac OS (or any UNIX based system). This is analogous to the Windows location C:\Python36\Lib\site-packages 
+After the install, the files will exist in the "usr/local/bin" folder of your Mac OS (or any UNIX based system). This is analogous to the Windows location `C:\Python36\Lib\site-packages`
 
 Finally, edit the .bash_profile file to include this path:
 
